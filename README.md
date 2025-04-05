@@ -1,2 +1,2 @@
 # credit-card-fraud-prediction
-Auther- Khushi Pinyani
+Author- Khushi Pinyani
